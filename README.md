@@ -22,7 +22,7 @@
 	
 >→ Se existir um padrão nos dados, um algoritmo será capaz de aprender este padrão gerando assim um modelo. Esse modelo pode ser usado com novos dados para resolver o problema para o qual ele foi criado.
 
->→ O ALGORITMO NÃO CRIA PADRÃO ELE DETECTA OS PADRÕES 
+      → O ALGORITMO NÃO CRIA PADRÃO ELE DETECTA OS PADRÕES 
 
 >→ Usamos matemática para tentar reproduzir inteligência humana nas máquinas
 
