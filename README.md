@@ -28,28 +28,25 @@
 
 >Outros termos - Inteligência Artificial - Machine Learning - Deep Learning GenAI
 
- *** IA- Teoria geral que engloba o desenvolvimento de sistemas computacionais capazes de realizar tarefas cognitivas em nível humano ***
+1.  IA- Teoria geral que engloba o desenvolvimento de sistemas computacionais capazes de realizar tarefas cognitivas em nível humano 
 
-Machine Learning - Algoritmos que aprendem a partir de padrões nos dados sem que sejam explicitamente programados. Subconjunto da IA.
+2. Machine Learning - Algoritmos que aprendem a partir de padrões nos dados sem que sejam explicitamente programados. Subconjunto da IA.
 
-Deep Learning - Subconjunto de Machine Learning, engloba algoritmos baseados em redes neurais artificiais com alta capacidade de aprendizado 
+3. Deep Learning - Subconjunto de Machine Learning, engloba algoritmos baseados em redes neurais artificiais com alta capacidade de aprendizado 
 
-GenIA - Subconjunto de Deep Learning, são modelos capazes de gerar novos conteúdos (como textos e imagens.)
-
-
-
+4. GenIA - Subconjunto de Deep Learning, são modelos capazes de gerar novos conteúdos (como textos e imagens.)
 
 <div align="center">
     <img src="./comparativo.png" alt="comparação entre os tipos de IA">
 </div> 
 
 
-Principais Categorias de IA
+#      PRINCIPAIS CATEGORIAS DA IA
 
-IA Estreita - IA FRACA - Projetada para executar uma tarefa específica, como assistentes virtuais, reconhecimento fácil, sistemas de recomendações, etc. Não possui consciência ou entendimento além de suas funções programadas. É o que existe hoje em termos de IA.
+>IA Estreita - IA FRACA - Projetada para executar uma tarefa específica, como assistentes virtuais, reconhecimento fácil, sistemas de recomendações, etc. Não possui consciência ou entendimento além de suas funções programadas. É o que existe hoje em termos de IA.
 
-IA Geral - IA FORTE AGI - Uma IA teórica que teria capacidade de entender, aprender e aplicar conhecimento de maneira geral, semelhante à inteligência humana. Ainda não foi desenvolvida e é um tópico de pesquisa e debate - Não existe!! Ainda
+>IA Geral - IA FORTE AGI - Uma IA teórica que teria capacidade de entender, aprender e aplicar conhecimento de maneira geral, semelhante à inteligência humana. Ainda não foi desenvolvida e é um tópico de pesquisa e debate - Não existe!! Ainda
 
-NOTA: Modelos Generativos Multimodais (que geram texto e imagem, por exemplo) Não são IA Geral, mas sim a junção de vários modelos de IA Estreita em uma única solução
+     ~~  ~~ NOTA: Modelos Generativos Multimodais (que geram texto e imagem, por exemplo) Não são IA Geral, mas sim a junção de vários modelos de IA Estreita em uma única solução
 
 
